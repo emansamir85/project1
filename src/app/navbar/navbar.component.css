@@ -3,6 +3,9 @@ nav {
   font-weight: 700;
   transition:padding .5s;
 }
+nav li {
+  width: fit-content;
+}
 nav .activeLink {
   background-color: var(--main-color);
   border-radius: 10px;
