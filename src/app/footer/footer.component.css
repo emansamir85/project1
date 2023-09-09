@@ -1,0 +1,17 @@
+footer .row  {
+  background-color: var(--light-color);
+  color: white;
+  padding: 90px 60px;
+}
+footer .row h3{
+  font-weight: 500;
+}
+footer .social li{
+  border: 1px solid white;
+  margin-right: 10px;
+  padding: .6rem;
+  line-height: 1;
+}
+footer .end {
+  background-color: var(--dark-color);
+}

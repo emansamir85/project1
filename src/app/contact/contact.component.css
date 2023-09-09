@@ -1,0 +1,12 @@
+.contact .form input:focus{
+  outline: none;
+
+}
+.contact .form label{
+  color: var(--main-color);
+  top: 30px;
+  transition: top .5s;
+}
+.contact .form button{
+  background-color: var(--main-color);
+}

@@ -1,0 +1,6 @@
+.about {
+  height: calc(100vh - 100px);
+}
+.about p{
+  text-align: justify;
+}
