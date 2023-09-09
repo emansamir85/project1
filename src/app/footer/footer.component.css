@@ -1,7 +1,7 @@
 footer .row  {
   background-color: var(--light-color);
   color: white;
-  padding: 90px 60px;
+  padding: 80px 60px;
 }
 footer .row h3{
   font-weight: 500;
@@ -14,4 +14,10 @@ footer .social li{
 }
 footer .end {
   background-color: var(--dark-color);
+}
+@media screen and (max-width:768px) {
+  footer .row{
+    padding-top: 0;
+  }
+  
 }
